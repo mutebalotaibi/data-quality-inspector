@@ -1,0 +1,8 @@
+[project]
+name = "saudi-data-quality-inspector"
+version = "0.1.0"
+description = "Training project for assessing customer data quality."
+requires-python = ">=3.10"
+
+[tool.unittest]
+start-directory = "tests"
